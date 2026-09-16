@@ -30,4 +30,4 @@ Contrast occurs when opposite visual qualities are placed together. The dark Bis
 
 ## Second Prompt
 
-Create the same poster for “The Three Bishops” with the same three Bishops, city
+Create the same poster for “The Three Bishops” with the same three Bishops, city, colors, lighting, and layout. Change only the textures. Make the Bishops' capes smooth and shiny instead of rough. Make the buildings clean, smooth, and reflective. Make the streets smooth and glossy. Keep the same dark colors and bright red and white lights. The second poster should feel cleaner, more futuristic, and more controlled.
